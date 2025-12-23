@@ -29,4 +29,5 @@ An interactive Excel dashboard with slicers and KPIs.
 Superstore sales dataset used for analysis.
 
 ## 👤 Author
-Mayank V. X
+Mayank Bisht
+
