@@ -22,9 +22,10 @@ identify trends, profitable segments, and loss-making products.
 ## 📈 Dashboard
 An interactive Excel dashboard with slicers and KPIs.
 
-## 🖼 Dashboard Preview
-![Dashboard](<img width="1920" height="1080" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/bea149cf-5e82-478c-b75d-967f63c89b03" />
-)
+## 📊 Dashboard Preview
+
+![Superstore Sales Dashboard](Screenshots/Screenshot%20(179).png)
+
 
 ## 📂 Dataset
 Superstore sales dataset used for analysis.
